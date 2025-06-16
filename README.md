@@ -21,3 +21,4 @@ Uitvoeren in je repository:
 ```
 vale sync
 ```
+Als je dan ook nog de [Visual Studio Code extentie](https://marketplace.visualstudio.com/items?itemName=ChrisChinchilla.vale-vscode) installeert, krijg je mooie meldingen als je lelijke teksten schrijft.
