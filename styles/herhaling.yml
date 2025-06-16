@@ -1,0 +1,6 @@
+extends: existence
+message: "'%s' wordt twee keer achter elkaar gebruikt"
+level: warning
+ignorecase: true
+tokens:
+  - '(\b\w+\b)\s+\1\b'

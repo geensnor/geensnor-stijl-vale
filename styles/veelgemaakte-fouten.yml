@@ -1,0 +1,10 @@
+extends: substitution
+message: Gebruik '%s' in plaats van '%s'.
+ignorecase: true
+level: error
+action:
+  name: replace
+swap:
+  enigzins: enigszins
+  daarintegen: daarentegen
+  accomodatie: accommodatie

@@ -1,0 +1,12 @@
+extends: existence
+message: "'%s' wordt met een hoofdletter geschreven."
+link: https://onzetaal.nl/taalloket/hoofdletter-wel-of-niet
+ignorecase: false
+level: error
+tokens:
+  - europe(?:es|se|)
+  - nederlands(?:e|)
+  - duits(?:e|)
+  - linux
+  - ubuntu
+  - fediverse

@@ -1,0 +1,927 @@
+extends: substitution
+message: Overweeg om '%s' te gebruiken in plaats van '%s'.
+link: https://onzetaal.nl/taalloket/modern-taalgebruik
+ignorecase: true
+level: suggestion
+action:
+  name: replace
+swap:
+  aandachtig: goed
+  aan de hand van: met|door
+  aangaande: over
+  aangezien: omdat
+  aanmerkelijk: groot|belangrijk|vrij sterk
+  aanpassingen realiseren: aanpassen|veranderen
+  aanstonds: dadelijk|gauw|binnenkort
+  aansturen: leiding geven|sturen
+  aan te gane (overeenkomsten): te sluiten (overeenkomsten)
+  aantrekken (personeel): mensen in dienst nemen
+  aanvang: begin|start
+  aanvang nemen, een -: beginnen|van start gaan|starten
+  aanvangen: beginnen|starten
+  aanvankelijk: eerst|eerder|in het begin
+  aanvliegen: benaderen|aanpakken
+  aanwenden: gebruiken
+  abusievelijk: per ongeluk|door een vergissing|door een fout
+  accenten verleggen: op andere dingen letten|stoppen met|nadruk leggen op iets anders
+  acceptatie: goedkeuring
+  accommodatie: gebouw|locatie
+  accorderen: instemmen met
+  achten: vinden|van mening zijn
+  achttal, een -: acht
+  activiteiten voortzetten: doorgaan met|blijven werken aan
+  actualiseren: aanpassen|moderniseren
+  acuut: direct|onmiddellijk
+  ad (een bedrag ad &euro; 50,-): van (een bedrag van &euro; 50|-)
+  additioneel: toegevoegd|aanvullend|extra
+  adequaat: passend|juist|goed
+  adhesie: instemming|steun
+  adhesie betuigen: instemmen|steunen|laten merken dat je het ermee eens bent
+  ad hoc: direct|plaatselijk|tijdelijk
+  adstrueren: verduidelijken|toelichten|bewijzen
+  advies uitbrengen: adviseren|de raad geven om
+  afdoening: afhandeling|afsluiting
+  affirmatief: bevestigend
+  afgezien van:
+    behalve ...|... niet meegerekend|als je niet let op ...|zonder ...
+    mee te tellen
+  afronden: afmaken|beeindigen
+  aftikken: controleren|beeindigen
+  afvloeien: verminderen
+  aldaar: daar|op die plaats
+  aldra: algauw|binnenkort|zo snel als
+  al dan niet: of|wel of niet
+  aldus: zo|op die manier
+  alhoewel: hoewel|maar
+  alleszins: in alle opzichten|zeker (wel)|hoe dan ook
+  alloceren: toewijzen
+  alom: overal
+  alsdan: dan|in dat geval|op dat moment
+  alsmede: en (ook)|net als
+  alsook: net als|en (ook)|of (ook)
+  alstoen: destijds|in die tijd|toen
+  alvorens: voordat
+  alwaar: waar
+  ambivalent: dubbel|twijfel
+  anderszins: op een andere manier|anders
+  anderzijds: aan de andere kant
+  animo: belangstelling
+  annonce: aankondiging
+  anticiperen: verwachten|vooruitlopen op
+  appellant:
+    partij die in hoger beroep gaat|iemand die laat weten het er niet mee
+    eens te zijn
+  appelleren: in hoger beroep gaan|protesteren
+  appelleren aan: een beroep doen op|aanspreken
+  appreciatie: waardering
+  a priori: vooraf|van tevoren
+  autonoom: zelfstandig|onafhankelijk
+  beduidend: nogal|aanzienlijk
+  behagen: in de smaak vallen|prettig vinden
+  behelzen: gaan over|bevatten|inhouden
+  behoefte bestaat aan: "... is nodig|... is gevraagd"
+  behoeven: moeten|hoeven|nodig hebben|nodig zijn|willen
+  behoren: moeten|horen
+  behoudens: behalve|met uitzondering van|met behoud van|onder voorbehoud van
+  behoudens indien: tenzij|behalve als
+  behoudens in het geval dat: tenzij|behalve als
+  behoudens voor zover: tenzij|behalve als
+  bekomen: krijgen
+  belanghebbende: betrokken persoon|betrokkene
+  beleidsimpuls: goed plan|extra aandacht geven aan ...
+  beleidsintensiveringen: meer geld (uit)geven aan
+  benchmarking: prestaties vergelijken
+  benevens: behalve|naast|en ook|net als|evenals|met daarbij
+  beogen: bedoelen; als doel hebben|proberen te bereiken
+  bepaald: een|een zeker|dit|dat
+  het bepaalde: wat hier staat
+  berichten: laten weten
+  berispen: op z&#39;n kop geven|zeggen dat iemand iets verkeerd heeft aangepakt
+  berouw: spijt
+  bescheiden: papieren|documenten
+  beslag krijgen: gebeuren|uitvoeren
+  bestendigen: voortzetten|vasthouden
+  bestrijken: (deze stukken) gaan over|(deze periode) duurt van ... tot ...
+  betreffende: over
+  betreft: over|onderwerp
+  betrekking hebben op: gaan over
+  betuigen: verklaren|zeggen dat ...
+  bewerkstelligen: zorgen voor|doen
+  bezien: bekijken
+  bezigen: doen|aan iets werken|gebruiken
+  bezoldigd: betaald
+  bij brief: schriftelijk|in de/een brief|met de brief van
+  bij dezen: hierbij
+  bijdrage leveren: meewerken|betalen
+  bij gelegenheid: bij|voor|af en toe|soms
+  bijgeval: soms|toevallig|als
+  bijgevolg: dus|daarom|door
+  bij ontstentenis van:
+    bij afwezigheid van|als x er niet is|als x niet het geval
+    is
+  bij schrijven van: door/in een brief van 1 maart
+  bij wijze van: als|op die manier
+  bilateraal: van twee kanten
+  binnen de gemeentelijke organisatie: bij de gemeente
+  binnen het raam van onze voorwaarden: binnen onze werkwijze|wij eisen
+  black spot: onveilige verkeersplek
+  blijkens: gezien|zoals blijkt uit ...
+  borgen: vasthouden aan|zorgen dat iets (goeds) blijft bestaan/voortgezet wordt
+  bovengenoemde: deze|dit
+  bovenstaand: deze|dit|wat hierboven staat
+  branding (Eng.): reclame maken voor|als een merk / vaste (goede) eigenschap presenteren
+  brandstofverkooppunt: tankstation
+  c.q.: of als dat niet kan ...; of als die niet aanwezig is ...
+  capaciteit: vermogen
+  casestudy: praktijkgeval|voorbeelden uit de praktijk
+  casu quo (c.q.): meestal te vervangen door &#39;en&#39; of &#39;of&#39;
+  categorie: soort|rubriek
+  cie.: commissie
+  circa: ongeveer
+  citymarketing: stadspromotie
+  clausule: bepaling|regel|voorbehoud
+  clusteren: samenvoegen
+  cohesie: samenhang|binding
+  compatibel: uitwisselbaar|verenigbaar
+  compensatie: vergoeding|schade goedmaken
+  complex: moeilijk|ingewikkeld; gebouw
+  compliceren: ingewikkeld maken|moeilijk maken
+  concept: ontwerp|schets|opzet|plan
+  concipi&euml;ren: ontwerpen|schetsen; zwanger worden
+  concreet: praktisch|duidelijk
+  conditie: voorwaarde
+  configuratie: samenstelling
+  conflicteren: botsen|strijden
+  conflictsituatie: ruzie|conflict
+  conform: in overeenstemming met|zoals|volgens
+  congruent: overeenstemmend
+  consensus: overeenstemming
+  consequent:
+    zoals je je had voorgenomen|zoals was afgesproken|onverstoorbaar en
+    recht-door-zee
+  consistent: logisch|samenhangend
+  consolidatie: het vasthouden|het vastleggen van iets goeds|het bewaren van ...
+  constateren: zien|vaststellen
+  constellatie: samenstelling|stand van zaken
+  constitueren: instellen|vormen (van een commissie|werkgroep)
+  constructief: opbouwend|bruikbaar|nuttig
+  consultatief: advies vragend
+  consulteren: advies vragen|hulp zoeken
+  continueren: doorgaan|volhouden
+  convenant: overeenkomst|afspraak met
+  co&ouml;rdineren: onderdelen op elkaar afstemmen|de samenwerking regelen
+  courant: gangbaar|gebruikelijk
+  cre&euml;ren: maken
+  criterium: norm|richtlijn|eis
+  cruciaal: noodzakelijk|belangrijk
+  cum suis (c.s.): met anderen|met partners
+  cumulatief: toenemend|oplopend
+  curieus: vreemd|merkwaardig
+  daarenboven: bovendien|behalve dat|daarbij|verder
+  dagtekening: datum (van een brief)
+  dan wel: of
+  danig: nogal|zeer
+  dankzeggen: bedanken
+  dat wil zeggen (d.w.z.): dus
+  decentraal: niet centraal|niet vanuit &eacute;&eacute;n kantoor/gebouw/...
+  de dato: van (datum)
+  deductief: afgeleid|afleidend|tot de conclusie komend
+  de facto: in feite
+  degeen: degene
+  de handen ineenslaan: samenwerken
+  delegeren:
+    een ander laten doen|een taak neerleggen bij; aan een ander geven (geld|een
+    recht)
+  de mening toegedaan zijn: vinden|denken
+  der: van de
+  deregulering: regels afschaffen|versimpelen
+  derhalve: daarom|om die reden|dan ook|dus
+  derogatie: vertraging|uitstel
+  derven: mislopen|verliezen
+  derving: verlies
+  desalniettemin: toch|maar
+  desbetreffend: over|de ... waarom het gaat|dit
+  desiderata: wensen
+  desideratum: wens
+  desgevraagd: toen we daarnaar vroegen (vaak overbodig)
+  desniettegenstaande: echter|maar|toch|hoewel
+  desondanks: toch
+  destijds: toen
+  deswege: daarom
+  dezer dagen: de afgelopen tijd|deze week/maand|nu|binnenkort
+  dezerzijds: van mijn/onze kant|ik heb|wij hebben
+  dicta: beslissingen
+  dictum: beslissing
+  dienaangaande: hierover|daarover|wat dat betreft
+  dienen te: moeten
+  dienovereenkomstig: (net) zo
+  dientengevolge: daardoor
+  differenti&euml;ren: onderscheiden|verschillen|verschil maken
+  discontinu: onderbroken|niet aan &eacute;&eacute;n stuk door
+  diskwalificatie: afkeuring
+  discrepantie: verschil|tegenstrijdigheid|afwijking|iets wat niet logisch is
+  distribueren: verspreiden|versturen|verdelen
+  dit schrijven: deze brief
+  diversiteit: verschillend|ongelijkheid|allerlei ...
+  doch: maar
+  doen toekomen: toesturen|opsturen|sturen
+  dogmatisch: streng|rechtlijnig
+  door middel van: door|met
+  doorgang vinden: doorgaan|plaatsvinden
+  doorontwikkelen: verder ontwikkelen
+  doorpakken: doorgaan|volhouden|niet stoppen
+  draagvlak: steun
+  dralen: treuzelen|afwachten
+  drietal: drie
+  dusdanig: zo
+  echter: maar|toch
+  edoch: maar|toch
+  educatief: leerzaam
+  een aantal: "enkele|of: precies aantal noemen"
+  een dezer dagen: binnenkort
+  een en ander: deze|dit alles
+  een klein aantal: "enkele|of: precies getal noemen"
+  eerdergenoemde: deze|dit
+  eerst dan: pas dan
+  effectueren: uitvoeren|doen
+  elders: ergens anders
+  elimineren: uitschakelen|verwijderen
+  elkeen: iedereen
+  enerzijds: aan de ene kant|als je het zo bekijkt
+  enige: een paar|enkele
+  enigszins: een beetje|wat
+  enkel: alleen (maar)
+  entameren: beginnen|in gang zetten
+  epistel: brief
+  equivalent: gelijkwaardig|gelijk
+  ergo: dus
+  ertoe strekken: ertoe dienen
+  "...ervaring": (vermijden)
+  escaleren: erger worden; hogerop zoeken|hogerop brengen
+  essentieel: onmisbaar|nodig|noodzakelijk
+  evaluatie: bespreking|beoordeling
+  evalueren: bespreken|beoordelen|achteraf bespreken om ervan te leren
+  evenmin: ook niet
+  evenwel: maar ...|toch
+  evenzeer: ook|net zo ...
+  evenzo: ook|net zo|op dezelfde manier
+  evident: duidelijk|meteen duidelijk
+  ex. (artikel): volgens|op grond van (artikel)
+  exceptioneel: uitzonderlijk
+  excerperen: een samenvatting maken
+  excessief: overdreven|veel te veel/hoog
+  ex nunc: meteen|van nu af aan|direct
+  exorbitant: buitensporig
+  expiratie: afloop|beeindiging|einde (van een termijn)
+  expireren: verlopen|vervallen|aflopen|eindigen
+  explicatie: uitleg|verklaring
+  expliceren: verklaren|uitleggen|duidelijk maken
+  expliciet: uitdrukkelijk|nadrukkelijk
+  exploitatie: benutting (bv. door een bedrijf van een terrein); misbruik
+  exploiteren:
+    winstgevend maken|benutten om een bedrijf te voeren; misbruik maken
+    van
+  exploratie: het onderzoeken|het doorzoeken
+  exploreren: onderzoeken|opsporen
+  explosief: plotseling enorm groeiend/toenemend
+  exponentieel: enorm sterk|enorm krachtig
+  expos&eacute;: overzicht|toelichting|presentatie
+  extensivering: uitbreiding
+  extenso, in -: in zijn geheel|helemaal
+  extramuraal: buiten de muren van|in de wijk|bij de mensen thuis
+  extreem: buitengewoon|zeer ongewoon|in heel hoge mate
+  extremis, in -: op het allerlaatste moment
+  extrinsiek: niet tot de kern behorend|aan de buitenkant|uiterlijk
+  exuberant: overdadig|overdreven
+  faciliteren: ondersteunen|mogelijk maken
+  fasegewijs: in delen|in stappen
+  fiat: toestemming|goedkeuring
+  fiatteren: goedkeuren|bekrachtigen
+  financi&euml;le middelen: geld
+  finetunen: verbeteren
+  finetuning: regeling van details|precieze afstemming
+  flankerend: daarnaast|extra|bijbehorend
+  flankerend beleid: beleid dat helpt om een maatregel/wet goed te kunnen uitvoeren
+  fluctueren: telkens op- en neergaan|schommelen
+  fortiori, a -: sterker nog|met nog meer reden; al helemaal
+  fraai: mooi|goed
+  fundament: basis|grondslag
+  fundamenteel: de basis betreffend|diepgaand
+  funderen: baseren
+  fungeren: dienstdoen als|optreden als
+  gaarne: graag
+  garant staan voor: beloven
+  geaccordeerd: goedgekeurd
+  geagendeerd: op de agenda gezet|als agendapunt opgenomen
+  gecompliceerd: ingewikkeld
+  geco&ouml;rdineerd: afgestemd|in goede samenwerking
+  geenszins: niet|zeker niet|helemaal niet
+  gefaseerd: in delen|in stappen
+  gegrond op: gebaseerd op
+  ge&iuml;ntegreerde aanpak: aanpak als &eacute;&eacute;n geheel|algemene aanpak
+  ge&iuml;nvolveerd: betrokken
+  gekant zijn tegen: tegen iets zijn|bezwaren hebben tegen
+  gelegenheid, niet in de - zijn: niet kunnen
+  gelet op: met het oog op|omdat|doordat
+  gelieve(n): wilt u
+  gelijkluidend: gelijk|hetzelfde
+  gelijktijdig: tegelijk
+  gelukken: lukken
+  gemeentelijke verordening: (document met) regels van de gemeente
+  gemeenzaam: informeel|alledaags
+  gemotiveerd: waarbij redenen worden/zijn gegeven|met een goede uitleg
+  genereren: maken|ontwikkelen|ervoor zorgen dat iets er komt
+  genoegzaam: voldoende|algemeen; krachtig
+  geraken: raken
+  gerealiseerd: gemaakt|gebouwd|besloten|afgesproken|enz.
+  gereed: klaar|af
+  gerevitaliseerd: opgeknapt|weer tot leven gebracht
+  geschieden:
+    "gebeuren\n\t\t\t(of probeer het te schrappen: niet &#39;de besluitvorming\
+    \ geschiedt&#39; maar &#39;we besluiten&#39;)"
+  geschil: ruzie|conflict
+  gestructureerd: systematisch opgebouwd|met een goede opbouw|in fasen verdeeld
+  gewag maken van: melden|bekendmaken
+  gezien&nbsp;: daarom|met het oog op
+  gezien het feit dat: omdat
+  gremium, gremia: overleg(gen)|vergadering(en)|groep/vergadering van beleidsmedewerkers
+  grootstedelijk: in/van grote steden
+  hangende het besluit: zolang nog niets is besloten
+  heden: nu|vandaag
+  hedenmiddag: vanmiddag|eerder/later op deze middag
+  hedenochtend: vanochtend|eerder/later op deze ochtend
+  heden ten dage: vandaag|vandaag de dag|tegenwoordig
+  herori&euml;ntatie: opnieuw bekijken
+  herori&euml;nteren: opnieuw de juiste richting bepalen
+  heroverwegen: nog een keer over iets nadenken
+  hetgeen: wat|dat wat
+  het is geboden: het moet|het is nodig
+  het kan niet worden tegengesproken dat: het is zo dat|het is waar dat
+  het ligt geenszins in de bedoeling dat ...: "... hoeft niet|ik bedoel niet"
+  het moge duidelijk zijn: het is duidelijk|u weet
+  het valt te proberen: we kunnen het proberen|u kunt het proberen|het is mogelijk
+  het ware te wensen dat: we hopen ...|het zou beter zijn als
+  hetwelk: dat|dat wat
+  hi&euml;rarchie: rangorde
+  hiernavolgende: volgende
+  hieromtrent: hierover
+  hieronder ressorteert: hieronder valt
+  hier te lande: in ons land
+  hiertoe: hiervoor|om dit te doen|met dit doel
+  hoewel: maar toch
+  hogergenoemde: hiervoor genoemde
+  hoofde, uit dien -: om die reden|daarom|wat hieruit voortvloeit
+  hoofdlijnen: de belangrijkste punten
+  hoofdzakelijk: vooral
+  hoogachtend: met vriendelijke groet (= minder formeel)
+  horizontaal werkverband: samenwerken op &eacute;&eacute;n niveau
+  houdende: met
+  immers: toch|ook|namelijk
+  impact: invloed|effect
+  implementatie: uitvoering|invoering|toepassing
+  implementeren: invoeren|uitvoeren|ervoor zorgen dat iets wordt toegepast
+  implicatie: gevolg
+  impliceren: inhouden|betekenen
+  in aanmerking nemen: rekening houden met
+  in beginsel: in de eerste plaats|eigenlijk|liever
+  in casu: in dit geval|in uw geval|in het geval dat
+  incident: gebeurtenis|vervelende gebeurtenis
+  in concreto: dus|in werkelijkheid|in een bepaald geval|met duidelijke voorbeelden
+  incongruent: verschillend|ongelijk
+  inconsequent: afwijkend|niet volgens afspraak
+  incourant: ongewoon
+  in de betekenis van: zo|zoals
+  in de buurt van: ongeveer
+  in de gelegenheid zijn: kunnen
+  in de nabije toekomst: binnenkort|snel
+  in de nabijheid van: vlakbij|in de buurt van
+  in de omstandigheid verkeren: zijn|hebben
+  in de trant van: zo|zoals
+  in dezen: hierin|wat dit betreft
+  in de week leggen: voorbereiden|alvast beginnen|voorstellen
+  in de zin van: zo|zoals
+  indicatie: aanwijzing
+  indien: als|wanneer
+  in dier voege: zo|op die manier
+  in duplo: in tweevoud
+  inflatie: waardevermindering van geld|prijsstijging
+  in gemeen overleg: samen|in overleg met
+  ingeval: als|wanneer
+  in geval van: bij|als
+  ingevolge: door|op grond van|naar aanleiding van|als gevolg van
+  in goede orde: goed
+  in het huidige tijdsgewricht: nu|in de tijd waarin we nu leven
+  in het kader van: binnen|om|op basis
+  in het licht van: daarom
+  in het merendeel van de gevallen: meestal|bijna altijd
+  in het navolgende: hierna|hieronder
+  inhoudelijk: "over de inhoud|als het om de inhoud gaat (of: schrappen)"
+  initiatief: plan|idee; eerste stap
+  initieel: eerst|om te beginnen|eigenlijk
+  initi&euml;ren: beginnen|in gang zetten
+  in mindere mate: minder
+  innovatie: vernieuwing
+  in overleg treden: overleggen
+  in overweging nemen: nadenken over
+  in samenwerking met: (samen) met
+  insisteren: aandringen op
+  in situ: ter plekke|meteen
+  institueren: inrichten
+  institutionaliseren: vastleggen|invoeren
+  integraal: volledig|helemaal
+  integreren: inpassen|aanpassen|bij elkaar brengen
+  intentie: bedoeling|we willen|we proberen
+  in toenemende mate: steeds vaker
+  in verband met: door|omdat
+  invorderen: betaling eisen
+  in werking stellen: beginnen|starten
+  in werking treden: "... geldt vanaf|beginnen"
+  inwilligen: toestaan|toestemming geven|toestemming verlenen aan; zich schikken in of naar|toegeven
+  inzake: over
+  irre&euml;el: onwerkelijk|niet realistisch
+  irrelevant: niet ter zake doend|zonder betekenis|niet van toepassing
+  issue: belangrijk onderwerp|het punt waar het om gaat
+  item: onderwerp|punt
+  jegens: tegenover
+  jongstleden (jl.): onlangs|(weglaten|exacte datum noemen)
+  jumelage: vriendschapsband tussen steden/dorpen
+  juncto: in verband met
+  jurisprudentie: wat blijkt uit eerdere beslissingen van een rechtbank
+  justificatie: verdediging|rechtvaardiging
+  kandelaberen: ingrijpend snoeien
+  kennisnemen van: horen|lezen
+  kerntaak: belangrijkste taak
+  kick-off: aftrap|opening|feestelijke start
+  klankborden: overleggen|praten
+  kortsluiten:
+    snel afspreken|zorgen dat iedereen weet wat er aan de hand is / wat
+    er moet gebeuren
+  kortwieken: kleiner maken|beperken
+  kostenindicatie: berekening van de kosten
+  krachtens: op grond van|volgens de wet
+  kwalificatie: beoordeling
+  kwalificeren:
+    een naam geven aan|het recht hebben iets te doen / ergens aan mee
+    te doen
+  kwalijk: niet goed|slecht
+  kwalitatief: wat de kwaliteit/waarde betreft|(schrappen)
+  kwantificeren: bepalen|meten|in cijfers vaststellen of uitdrukken
+  kwantitatief: als het gaat om de hoeveelheid/grootte
+  kwantiteit: hoeveelheid|bedrag|grootte
+  kwartaal: een vierde deel van het jaar|periode van drie maanden
+  kwestie: de zaak waar het om gaat|probleem
+  kwestieus: twijfelachtig
+  laatstelijk: onlangs|op ... (+ datum)
+  labelen: noemen
+  laken: sterk afkeuren
+  lanceren: naar voren brengen|onder de aandacht brengen
+  landen: begrepen worden|geaccepteerd worden
+  langjarig: jarenlang
+  larderen met: voorzien van
+  Lectori Salutem (L.S.): Geachte ...|Beste ...|
+  leges: geld|kosten
+  legio: heel veel|ontelbaar
+  legitiem: wettelijk|wettig|rechtmatig|terecht|goed
+  legitimatie:
+    verklaring dat iets wettig/echt is|bewijs dat iemand echt degene is
+    die hij zegt dat hij is
+  legitimeren:
+    wettigen|verantwoorden|aantonen dat iets goed is|bewijzen dat iemand
+    echt degene is die hij zegt dat hij is
+  leidmotief/leitmotiv: grondgedachte|basis|uitgangspunt
+  lering trekken uit: wijzer worden van|iets als een wijze les zien/gebruiken
+  liaison: verbintenis
+  liberalisatie/liberalisering: het meer ruimte geven|verruiming
+  licentie: vergunning|vergunningsbewijs
+  lichaam: organisatie|college|overleg
+  lichtvaardig: ondoordacht|zonder goed te hebben nagedacht/overlegd
+  lijntjes leggen: verbinden met
+  litigieus: twijfelachtig
+  locatie: plaats|gebouw
+  managen: besturen|doen|uitvoeren|regelen
+  mandaat: toestemming
+  manifest worden: duidelijk worden
+  mede: ook|onder andere
+  mededelen: laten weten|vertellen|schrijven
+  medio: halverwege de maand|half
+  meenemen: onthouden|erbij betrekken
+  menigeen: veel mensen|velen
+  merendeels: de meeste|de meesten|vooral
+  met als reden: omdat
+  met als resultaat dat: zodat
+  met behulp van: met|door
+  met betrekking tot: over
+  met de bedoeling dat: om|daarom
+  met het oog op: om|daarom
+  met het resultaat dat: zodat
+  met name: vooral
+  met redenen omkleed: met een goede uitleg|waarbij precies is/wordt verteld wat de reden is
+  met referte aan: verwijzend naar
+  met terzijde laten van: zonder
+  met weglating van: zonder
+  middelen: geld|bedrag
+  middels: door
+  Mijne heren: Geachte heer/mevrouw (aanhef); Dames en heren
+  mijns inziens (m.i.): volgens mij|ik vind|ik denk
+  mits: als|op voorwaarde dat
+  mitsdien: daarom|daardoor
+  mitsgaders: bovendien|en (daarbij/ook)|evenals|behalve|(samen) met|naast|net als|verder
+  moge: mag|kan
+  momenteel: nu
+  monitoren: bekijken|bestuderen|in de gaten houden
+  motie: politiek voorstel
+  motie van wantrouwen: vragen om het vertrek van
+  motiveren: redenen geven|uitleggen waarom
+  mutaties: wijzigingen
+  naar aanleiding van: omdat x is gebeurd|na ...
+  naar behoren: goed genoeg
+  naar (de mensen/partijen/...) toe: voor (de mensen/partijen/...)
+  nadere: verdere|uitgebreidere
+  nadien: daarna|vervolgens|later
+  nagenoeg: bijna
+  navolgende: volgende|hierna beschreven
+  navrant: pijnlijk
+  negental: negen
+  neveneffect: onverwacht effect|onverwacht gevolg
+  nevenstaande: hiernaast|hiernaast staande|onderstaande
+  nevenvermelde: hiernaast genoemde
+  nietig: ongeldig|onbelangrijk
+  niettegenstaande: desondanks|hoezeer (ook)|hoewel|ondanks
+  niettemin: toch|intussen|desondanks
+  niet zijnde: maar geen
+  nimmer: nooit
+  nochtans: echter|toch
+  noodzakelijk: nodig
+  nopen (tot): dwingen (tot)|noodzaken (tot)|noodzakelijk maken
+  nopens: over|onderwerp
+  of, en zo ja, op welke wijze:
+    of|en zo ja|hoe; of het zo is|en &aacute;ls het zo
+    is|hoe ...
+  officieus: niet officieel
+  ofschoon: hoewel|al|toch|maar
+  oftewel: of
+  ombuigen: bezuinigen
+  ombuiging: bezuiniging
+  om deze redenen: daarom
+  om niet: gratis
+  om reden van: omdat
+  om te komen tot: om
+  omtrent: over
+  omvangrijk: groot
+  onbezoldigd: niet betaald
+  ondanks het feit dat: hoewel|(maar) toch
+  onder curatele stellen:
+    laten controleren|iemand anders aanwijzen om beslissingen
+    te nemen voor iemand
+  ondergetekende: ik|bij mij
+  onderhavig: deze|die|dit|dat
+  onder invloed van: door
+  onder referte aan: zoals in ... staat
+  onderscheidenlijk: duidelijk
+  onderuitputting: er is geld over|x maakt/maken te weinig gebruik van ...
+  onder verwijzing naar: over
+  onderwerpelijk: deze|dit
+  onderwijl: intussen
+  ongeacht: of nu wel of niet
+  ongenoegen: klacht|boosheid|ontevredenheid
+  onjuist: verkeerd|fout
+  onlangs: kortgeleden|op (datum)
+  ontberen: eraan ontbreken|niet hebben
+  onthouden: niet geven|niet toekennen
+  ontplooien: ontwikkelen|uitvoeren
+  ontstentenis: bij afwezigheid van|als x er niet is|als x niet het geval
+    is
+  onverlet: dat betekent niet|dat verandert niets aan ...
+  onverwijld: onmiddellijk|direct
+  onzerzijds: van ons|volgens ons
+  onzes inziens (o.i.): volgens ons|wij vinden|wij denken
+  oogmerk: doel
+  oorzaak ligt in het feit dat: dit komt door
+  op basis van: daarom|zo
+  op deze wijze: zo
+  op een prettige/goede/ slechte/... wijze: prettig/goed/slecht/...
+  op grond van&nbsp;: vanwege
+  op grond van het voorgaande: daarom
+  op het gebied van: over|voor
+  opdat: zodat
+  opportuniteiten: kansen
+  opportuun: goed om op dit moment te doen|op het juiste moment
+  op het huidige moment: nu
+  opstarten: beginnen
+  opteren voor: kiezen voor|de voorkeur geven aan
+  optimaal: zo goed mogelijk
+  optimaliseren: verbeteren
+  op voorhand: eerst|vooraf
+  op welke wijze: hoe
+  over de gehele linie: helemaal
+  overeenkomstig: zo|als|op grond van|volgens
+  overhead: bijkomende kosten
+  overigens: verder|daarnaast (nog)|voor de rest
+  panel: onderzoeksgroep
+  paraaf: handtekening
+  paraferen: handtekening zetten
+  participeren: meedoen|deelnemen
+  partieel: gedeeltelijk
+  peildatum: vanaf (datum)|sinds (datum)
+  per abuis: per ongeluk
+  percent: procent
+  per omgaande: meteen|direct
+  persisteren: volhouden|vasthouden aan
+  piketpaaltjes slaan: grenzen aangeven|meteen duidelijk maken hoever men wil gaan
+  pilot: proefproject
+  pogen: proberen
+  portefeuille: taken|takenpakket|beleidsterrein
+  prealabel: voorafgaand|voordat andere punten aan de orde komen
+  precedent: voorbeeld|eerder besluit
+  precedentwerking: een mogelijk verkeerd voorbeeld gevend
+  preliminair: voorafgaand|inleidend
+  preluderen op: alvast iets zeggen over iets wat later aan de orde komt
+  prematuur: te vroeg|voor zijn beurt
+  prevaleren: voor laten gaan
+  preventief&nbsp;: om ... te voorkomen
+  preventieve maatregelen: dingen die gedaan worden om iets te voorkomen
+  primair: in de eerste plaats|belangrijkste|eerste
+  principe: keuze|uitgangspunt
+  principieel:
+    volgens een basisidee; volgens iemands overtuiging|uit de grond van
+    iemands hart
+  prioriteit: voorrang|iets wat voor moet gaan
+  prioriteitsstelling: volgorde van belangrijkheid
+  prioriteren: iets voorrang geven|je eerst op x richten
+  proactief: actief|problemen v&oacute;&oacute;r willen zijn
+  proced&eacute;: werkwijze|manier van doen
+  procedure: werkwijze|manier om iets te aan te pakken
+  procedureel: wat de werkwijze betreft|volgens de afgesproken manier van werken
+  profileren: kenbaar maken|onderscheiden
+  prognose: voorspelling
+  prominent: belangrijk
+  qua: over|rond|als het gaat om
+  quasi: schijnbaar|net alsof
+  quickscan: snel onderzoek op hoofdlijnen|nattevingerwerk
+  quod non: maar dat is niet zo|dat is niet waar
+  quotum: aandeel
+  ramen: schatten|begroten
+  raming: schatting|begroting
+  randvoorwaarden: eisen|voorwaarden (waaraan in elk geval moet worden voldaan)
+  ratio: verstand; oorzaak|rede; verhouding tussen
+  rationeel: verstandig|redelijk
+  reactief: afwachten|te laat|achter de feiten aan
+  realiseren: maken|bouwen|behalen|bereiken
+  recentelijk: onlangs|kortgeleden|net
+  reces: vakantieperiode
+  rechtens: volgens het recht|rechtmatig
+  reclamant: degene die bezwaar maakt|de klager|de eiser
+  rectificeren: verbeteren|rechtzetten
+  reden daartoe is: dit wordt gedaan omdat
+  reductie: vermindering|korting
+  reeds: al
+  referentie: verwijzing
+  refereren aan: verwijzen naar
+  reflecteren: ergens op reageren; nadenken over
+  regarderen: aangaan
+  regie nemen: leiden
+  regulier: gebruikelijk|gewoon
+  relationeel: in relatie tot|binnen
+  relevant: belangrijk
+  reparatiewetgeving:
+    wetgeving die ervoor moet zorgen dat een bestaande wet beter
+    werkt
+  repercussie: maatregel die ertegenin gaat|reactie
+  repliceren: antwoorden
+  respectievelijk: en|of
+  respons: antwoord|reactie
+  restitutie: teruggave|terugbetalen|u krijgt ... euro terug
+  restricties: beperkingen|grenzen
+  resulteren in: leiden tot
+  resum&eacute;: samenvatting
+  resumerend: samenvattend
+  retourneren: terugsturen
+  retourzenden: terugsturen
+  retributie: bijdrage
+  revitalisering: het opknappen|nieuw leven inblazen
+  ruchtbaarheid geven aan: aandacht geven|bekendmaken
+  sancties: maatregelen|straf|boete
+  sanctioneren: "goedkeuren|zeggen dat iets moet doorgaan|&oacute;f: straffen|bestraffen"
+  schoon: hoewel|al
+  schrijven (het -): de brief
+  sedert: sinds|vanaf
+  separaat: apart|los
+  seponeren: niet vervolgen|er niets mee doen
+  shared services:
+    samenwerking|centralisatie; deeltaken die op verschillende afdelingen
+    worden uitgevoerd|allemaal laten uitvoeren door &eacute;&eacute;n overkoepelende
+    afdeling
+  significant: opvallend|statistisch verantwoord
+  slechts: alleen
+  specifiek: vooral|in het bijzonder
+  speerpunt: belangrijkste onderdeel|punt waar we de meeste aandacht aan geven
+  spin-off: gevolg|bijproduct
+  stagnatie: vertraging|stilstand
+  stagneren: vertraagd raken|tot stilstand komen
+  stakeholder(s): betrokkene(n)|betrokken partij(en)
+  stellen: verklaren|meedelen
+  storneren: terugstorten
+  stornering: terugboeking
+  strategie: plan|aanpak
+  stringent: strak|streng
+  structureel: jaarlijks|belangrijk|voldoende
+  stukje, een - beleid/ vooruitgang/...: beleid/vooruitgang/...
+  subjectief: persoonlijk|eigen mening|alleen maar op het eigen gevoel lettend
+  suboptimaal: niet zo goed|minder goed dan verwacht
+  subsidiabel: wat subsidie kan krijgen|wat geld van de overheid kan krijgen
+  substantieel: belangrijk|flink
+  summier: kort|beperkt
+  suppletoir: aanvullend
+  tal van: veel
+  target: doel
+  taskforce: werkgroep|projectgroep
+  te (Breda/Leeuwarden/ Venlo/...): in (Breda/Leeuwarden/Venlo/...)
+  te allen tijde: altijd
+  "...technisch (beleidstechnisch, enz.)": "[vermijden]"
+  te dezen: hier|hierin|hierbij|in dit geval|in dit opzicht
+  tegemoetzien: verwachten|krijgen
+  tegen de achtergrond van: omdat|vanwege
+  telkenmale: telkens
+  temporiseren: uitstellen|vertragen
+  ten aanzien van (t.a.v.): over
+  ten behoeve van (t.b.v.): om|voor|bestemd voor|gericht aan
+  ten bewijze van: als bewijs van|om ... te bewijzen
+  ten dele: gedeeltelijk
+  ten detrimente van: op kosten van
+  teneinde: om
+  ten gevolge van: als gevolg van|door
+  ten grondslag liggen aan: de reden is
+  ten gunste van: voor
+  ten minste: minstens|in elk geval|minimaal
+  ten principale: wat de kern van de zaak betreft|wat de hoofdzaak betreft
+  ten tijde van: toen|op het moment van|in de tijd van
+  ten uitvoer brengen: uitvoeren|laten uitvoeren
+  ten volle van bewust, zich er - zijn: goed weten|goed begrijpen
+  tenzij: maar niet als
+  te onzent: bij ons
+  ter bereiking hiervan: om dit te bereiken
+  ter beschikking hebben: hebben|bezitten
+  terdege: uiteraard|wel|nauwkeurig
+  terechtwijzen: iemand op de vingers tikken|iemand zeggen dat hij een fout maakt
+  terechtwijzing: tik op de vingers
+  ter gelegenheid van: bij|omdat
+  ter hand nemen: beginnen
+  ter hand stellen: geven
+  ter realisering van dit oogmerk: om dit te bereiken
+  terstond: meteen|direct|onmiddellijk; zo meteen|straks
+  terugkoppelen: informeren|doorgeven wat besloten/besproken is
+  terugmelden: melden (wat besproken is)
+  ter zake: over
+  ter zake kundig&nbsp;: deskundig|goed in zijn/haar vak
+  ter zake van: in|als het gaat om|wat ... betreft
+  ter zitting: op/tijdens de zitting
+  te uwen name: op uw naam
+  te uwent: bij u
+  tevens: bovendien|ook; zowel ... als|samen; op hetzelfde ogenblik
+  tezamen: samen
+  te zijner tijd: ooit|in de toekomst|later
+  thans:
+    "nu|op dit moment (of: weglaten|bv. in &#39;als thans bedoeld in artikel
+    28 ...&#39;)"
+  tiental: tien
+  tijdpad: planning
+  tijdsbestek: tijd|periode
+  toekomen, doen -: sturen
+  toentertijd: toen
+  toetsen aan: vergelijken met
+  topic: onderwerp
+  tot de conclusie komen:
+    na (lang) nadenken een beslissing nemen|de conclusie trekken
+    dat
+  tot taak hebben: moeten
+  trachten: proberen
+  transparant: open|doorzichtig|te controleren
+  tweetal: twee
+  u gelieve: wij vragen u
+  uit anderen hoofde: om een andere reden
+  uit het oogpunt van: om
+  uit hoofde van: door|op grond van|namens
+  ultimo (jan/feb/mrt/ ...): eind (jan/feb/mrt/...)|op de laatste dag van de maand
+  universeel: algemeen
+  urgent: dringend|iets wat haast heeft
+  urgentie: haast|het spoedeisend zijn
+  usance: gebruik
+  utilitair: gericht op praktisch nut
+  uwenthalve: voor u|wat u betreft
+  uwentwege: van uw kant|in uw naam
+  uwerzijds: van u/door u|van uw kant
+  vacant: vrij
+  vacaturehoudend: waar een vacature bestaat
+  valide: geldig|krachtig|verantwoord|betrouwbaar
+  valideren: goedkeuren
+  valorisatie: kennis echt gaan benutten|kennis toepassen in de praktijk
+  vandaar: daarom
+  van de zijde van: door|van
+  van gemeentewege: door de gemeente|door ons
+  van mening zijn: vinden
+  van oordeel zijn: vinden
+  van plan zijn: willen
+  van start gaan: beginnen
+  van tevoren: vooraf
+  vanuit de organisatie: "[vermijden]"
+  vanwege: omdat
+  vanwege het feit dat: omdat
+  veelal: vaak
+  veelszins: in veel opzichten|op veel gebieden
+  veelvuldig: vaak
+  verbeterpunten: dingen die beter moeten|fouten
+  vergewissen, zich ervan -:
+    zekerheid moeten hebben over|zeker moeten weten dat;
+    ervoor zorgen iets zeker te weten|uitzoeken
+  verketelen: een cv-ketel vervangen
+  verkiezen boven: kiezen voor iets anders|iets anders een betere keuze vinden
+  vermanen: op de vingers tikken|de les lezen
+  vermogen: kunnen|in staat zijn; bezit
+  verordening: regels waaraan men zich moet houden|bindende regeling
+  verstenen: bestraten
+  verstreken periode: afgelopen tijd
+  vertaalslag: uitwerking voor
+  vertrouwen opzeggen: wegsturen|ontslaan
+  verwerven: kopen|krijgen
+  verzuimen: niet doen wat je zou moeten doen|je niet aan de afspraak houden
+  viertal: vier
+  vigeren: gelden
+  vigerend: geldend|huidig
+  vijftal: vijf
+  vlieguren maken: werken|aan de gang zijn|ervaring opdoen
+  voldoen: betalen
+  volgaarne: graag
+  volgtijdelijk: na elkaar
+  voorafgaand aan: eerder|vooraf
+  voorafgaandelijk: vooraf
+  vooraleer: voordat
+  vooralsnog: voorlopig|tot nu toe
+  voorhanden zijn: beschikbaar zijn
+  voorheen: vroeger|eerder
+  voor het geval dat: als
+  voorliggend: deze|dit
+  voormeld: hierboven vermeld
+  voornemen: plan
+  voornemens zijn: van plan zijn|willen
+  voornoemde: deze|dit|eerdergenoemde
+  voornoemde werkzaamheden: de(ze) eerdergenoemde werkzaamheden|deze werkzaamheden
+  voorshands: voorlopig|nu
+  voorts: verder|bovendien|en|ook|verder
+  voorwaarden scheppen: mogelijk maken
+  voor wat betreft: over
+  vorderen: eisen
+  vorenbedoelde: deze|dit
+  vorenomschreven: deze|dit
+  vorenoverwogene:
+    wat hiervoor uiteen is gezet|de overwegingen die hiervoor vermeld
+    zijn/staan
+  vorenstaande: hiervoor genoemde|deze|dit|voorgaande|vorige
+  vraagpunt: vraag
+  vrezen voor: bang zijn voor
+  vrijwel: bijna
+  waarborgen: zorgen dat iets blijft bestaan|vasthouden
+  waarnemen: zien; tijdelijk de functie hebben van
+  weder: weer
+  wederom: weer|opnieuw
+  wat betreft: over
+  watergang: sloot|gracht
+  weliswaar: natuurlijk
+  welke (de brief welke, handelingen welke): die|dat
+  wellicht: misschien
+  wensen: willen
+  werkbaar: praktisch
+  werkvoorraad: achterstand
+  werkzaam zijn: werken
+  weshalve: daarom
+  wij vertrouwen erop u hiermee voldoende te hebben ge&iuml;nformeerd:
+    heeft u nog
+    vragen|bel dan gerust met (naam|telefoonnummer)
+  wijze: manier
+  willens en wetens: bewust|toch
+  woonachtig zijn: wonen
+  woonvoorziening: woning
+  wortelopdruk: wortels van bomen die de stoep/het wegdek omhoogduwen
+  xenofobie: angst voor buitenlanders|hekel aan buitenlanders|vreemdelingenhaat
+  xenofoob: bang voor buitenlanders|een hekel hebbend aan buitenlanders
+  yell: slagzin|kreet
+  yup: jong persoon met een goede baan
+  zelfredzaamheid: zich kunnen redden
+  zestal: zes
+  zevental: zeven
+  zich beraden: nadenken over
+  zich verstaan met: overleggen met
+  zien op: betrekking hebben op|gaan over
+  zij, hoe dit ook -: in elk geval|wat er verder ook van te zeggen is
+  zij, wat daarvan -: of dit nu werkelijk het geval is/aan de orde is of niet
+  zijde, van de - van: van de kant van|van
+  zijdens: van de kant van|door
+  zodanig: zo
+  zodoende: zo
+  zonder meer: zomaar|gewoon
+  zonder uitzondering: altijd|helemaal
+  zorg dragen: ervoor zorgen
+  zorgvuldig: netjes|precies|nauwkeurig
+  zo spoedig mogelijk (z.s.m.): zo snel mogelijk
+  zulks: dit|dat|zoiets
+  zulks impliceert derhalve: dit betekent dus|het gevolg hiervan is dat
+  zwaktebod: iets slechts aanbieden|alleen maar omdat er niets beters is|slecht voorstel

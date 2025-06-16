@@ -1,0 +1,56 @@
+extends: substitution
+message: Overweeg '%s' te gebruiken in plaats '%s'.
+link: https://onzetaal.nl/taalloket/anglicismen
+ignorecase: true
+level: suggestion
+action:
+  name: replace
+swap:
+  aan het eind van de dag: uiteindelijk|als puntje bij paaltje komt|ten slotte|achteraf|na afloop
+  acteren: handelen|ingrijpen|opereren|actief zijn
+  actie nemen: actie ondernemen
+  administratie: de regering-Trump
+  adopteren: toepassen|gebruiken
+  adoptie: toepassing|gebruik|het toepassen
+  adresseren: aanpakken|aan de orde stellen
+  in ander nieuws: verder in het nieuws
+  atleet: sporter|sportman|sportvrouw
+  attractie: aantrekking|aantrekkingskracht
+  beslissing: een beslissing maken|een beslissing nemen
+  Bijbelbelt: Bijbelgordel|Biblebelt
+  biljoen: miljard
+  biopauze: plaspauze
+  brandnieuw: gloednieuw|splinternieuw
+  de data is: de data zijn
+  decade: decennium
+  het ding is: het punt is|waar het om gaat is
+  groeien: kweken|opkweken|telen|verbouwen|laten groeien|tot wasdom laten komen
+  hagelstorm: hagelbui
+  in andere woorden: met andere woorden|oftewel|kortom
+  kalender: agenda
+  laag in calorieën: caloriearm|caloriearm|met weinig calorieën
+  laag in suiker: suikerarm|met weinig suiker
+  laag in zout: zoutarm|met weinig zout
+  leven: wonen
+  massief: grootschalig|massaal
+  meer recent: recenter|onlangs nog|pas nog
+  nummer 1 + zelfst. nw.: top-|de beste|de grootste
+  onder constructie: in aanbouw|in voorbereiding
+  onder de indruk zijn dat: in de veronderstelling verkeren/zijn dat|de indruk hebbendat
+  over veertig: van boven/over de veertig
+  paragraaf: alinea
+  pastoor: dominee|predikant (niet-katholiek)
+  pijplijn: "pijpleiding (maar wel: ‘in de pijplijn (zitten)’)"
+  politiestation: politiebureau
+  protestant: demonstrant
+  puzzelen: voor een raadsel plaatsen|verbazen
+  recordbrekend: record- (‘recordaantal’|‘recordlang’|‘recordsnel’)
+  regenstorm: stortbui|(zware) (regen)bui met windstoten
+  sinds: omdat|aangezien
+  sober: nuchter
+  soort van: min of meer|zo ongeveer
+  vervangen met: vervangen door
+  vreemdgaan op: bedriegen
+  water, dat houdt geen -: dat houdt geen steek
+  windstorm: (zware) (regen)bui met windstoten
+  wolf, eenzame: solist|ongrijpbare persoon die alles alleen wil doen

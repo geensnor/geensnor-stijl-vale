@@ -1,0 +1,8 @@
+---
+extends: occurrence
+message: "Deze zin bevat meer dan 25 woorden. Overweeg om de zin op te splitsen voor betere leesbaarheid."
+link: https://onzetaal.nl/taalloket/lengte-van-zinnen
+scope: sentence
+level: warning
+max: 25
+token: \b\w+\b

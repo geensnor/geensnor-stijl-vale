@@ -1,0 +1,18 @@
+extends: substitution
+message: Gebruik '%s' in plaats van '%s'.
+link: https://onzetaal.nl/taalloket/afkortingen-algemene-regels
+ignorecase: false
+level: error
+action:
+  name: replace
+swap:
+  "(?:kwh|k.w.h.)": kWh
+  "(?:mwh|mWh|m.w.h.)": MWh
+  "(?:mbit|mBit)": Mbit
+  mbyte: Mbyte
+  mbps: Mbps
+  "(?:mhz|Mhz|mHz|mHZ)": MHz
+  mb: MB
+  GSM: gsm
+  KG: kg
+  blz: bladzijde

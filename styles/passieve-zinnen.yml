@@ -1,0 +1,12 @@
+extends: existence
+message: "'%s' wordt vaak in passieve zinnen gebruikt. Probeer er een actieve zin van te maken waarin het onderwerp handelt."
+link: https://onzetaal.nl/taalloket/lijdende-vorm-passieve-vorm
+ignorecase: true
+level: suggestion
+tokens:
+  - worden
+  - wordt
+  - geworden
+  - zijn
+  - was
+  - waren
