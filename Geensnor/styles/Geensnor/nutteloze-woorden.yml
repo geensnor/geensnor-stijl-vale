@@ -1,0 +1,28 @@
+extends: existence
+message: "'%s' kan er misschien wel uit"
+link: https://letterdesk.nl/2019/03/tien-woorden-die-je-altijd-kunt-schrappen/
+ignorecase: true
+level: suggestion
+tokens:
+  - erg
+  - echt
+  - redelijk
+  - veel
+  - gewoon
+  - eigenlijk
+  - dus
+  - kortom
+  - terwijl
+  - uiteindelijk
+  - namelijk
+  - vaak
+  - meestal
+  - wel eens
+  - regelmatig
+  - verschillende
+  - toen
+  - even
+  - toch
+  - feitelijk
+  - zullen
+  - leuk
