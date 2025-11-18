@@ -7,13 +7,13 @@ tokens:
   - europe(?:es|se|)
   - nederlands(?:e|)
   - duits(?:e|)
-  - linux
-  - ubuntu
-  - fediverse
-  - signal
-  - matrix
-  - mastodon
-  - geensnor
-  - telegram
-  - meshtastic
-  - syncthing
+  - (?<![\w.])linux(?![\w.])
+  - (?<![\w.])ubuntu(?![\w.])
+  - (?<![\w.])fediverse(?![\w.])
+  - (?<![\w.])signal(?![\w.])
+  - (?<![\w.])matrix(?![\w.])
+  - (?<![\w.])mastodon(?![\w.])
+  - (?<![\w.])geensnor(?![\w.])
+  - (?<![\w.])telegram(?![\w.])
+  - (?<![\w.])meshtastic(?![\w.])
+  - (?<![\w.])syncthing(?![\w.])
